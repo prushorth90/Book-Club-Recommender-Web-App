@@ -56,7 +56,7 @@ To use spark recommender system, Java 8 needs to be installed and used:
 The packages used by this application are specified in `requirements.txt`
 
 *Declare are other sources here.*
-The orm_helper functions for clubs and users have been reused from King's College London's computer science's coursework, Chess Club Management System.
+
 Some of the tests written have been reused as well with modifications and extensions of the tests to fit the bookaholics application.
 
 DateField accepting only today and future's date: https://stackoverflow.com/questions/4941974/django-how-to-set-datefield-to-only-accept-today-future-dates/4942284
